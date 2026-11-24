@@ -133,7 +133,7 @@ Screen
 ## 👩‍💻 Authors
 
 - **Mehreen Mahmud** ([@mehreenn-14](https://github.com/mehreenn-14))
-- **Tehreem Rasool** ([@partner-github-username](https://github.com/partner-github-username))
+- **Tehreem Rasool**
 
 Built as a CS1004 Object-Oriented Programming project at FAST NUCES, Islamabad.
 
